@@ -86,7 +86,7 @@ namespace ReceiptCreator
                 inValue = ReadLine();
                 if (DateTime.TryParse(inValue, out value) == false)
                 {
-                    WriteLine("invalid double value");
+                    WriteLine("invalid DateTime value");
                     enterAgain = true;
                 }
                 else
