@@ -1,0 +1,8 @@
+{
+    "demoParent": {
+        "demoChild1": "data1",
+        "demoChild2": "data2",
+        "demoChild3": "data3",
+        "demoChild4": "data4"
+    }
+}
